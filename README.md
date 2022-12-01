@@ -6,7 +6,7 @@
 - Pueden agregar todas las librerías que quieran/necesiten.
 ```
 
-| Day    | Link                                                                                                                                                                                                                                          |
+| Day N° | Link                                                                                                                                                                                                                                          |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Day 01 | Para calentar motores vamos a mantener las cosas simples, mostremos una lista de regalos, 3 elementos, fijos, sin nada más.                                                                                                                   |
 | Day 02 | Nuestra app se ve muy poco navideña, démosle unos colores más lindos, rojo, verde, amarillo. Podemos ponernos creativos con lo que queramos!                                                                                                  |
